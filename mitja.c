@@ -3,7 +3,7 @@
 int main() {
 	/*float suma=0;*/float suma = 0.0;
 	/*float mitja;*/float mitja=0.0;
-	float nou_valor;
+	/*float nou_valor;*/float nou_valor=0.0;
 	int num_repeticions=0;
 	char consulta='s';
 	
